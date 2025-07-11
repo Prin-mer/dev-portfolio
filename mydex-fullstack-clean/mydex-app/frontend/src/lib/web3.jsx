@@ -18,7 +18,7 @@ const { chains, publicClient } = configureChains(
 
 const { connectors } = getDefaultWallets({
   appName: "MyDEX",
-  projectId: "YOUR_WALLETCONNECT_PROJECT_ID",
+  projectId: import.meta.env.VITE_WALLETCONNECT_PROJECT_ID,
   chains,
 });
 
