@@ -14,7 +14,7 @@
     "vite": "^4.4.9",
     "@rainbow-me/rainbowkit": "^0.12.18",
     "wagmi": "^0.12.20",
-    "viem": "^1.16.0"
+    "viem": "^0.3.26"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.4",
