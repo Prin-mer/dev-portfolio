@@ -13,7 +13,7 @@
     "react-dom": "^18.2.0",
     "vite": "^4.4.9",
     "@rainbow-me/rainbowkit": "^0.12.18",
-    "wagmi": "^0.12.20",
+    "wagmi": "^0.12.19",
     "viem": "^0.3.26"
   },
   "devDependencies": {
